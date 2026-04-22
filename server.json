@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/boardgames",
-  "title": "uoardgames",
-  "description": "Boardgames MCP — wraps Board Game Atlas API (public demo client_id, free)",
+  "title": "Boardgames",
+  "description": "Boardgames MCP \u2014 wraps Board Game Atlas API (public demo client_id, free)",
   "version": "0.1.0",
   "websiteUrl": "https://pipeworx.io/packs/boardgames",
   "repository": {
